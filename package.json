@@ -1,0 +1,12 @@
+{
+  "name": "js-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/sschen86/js-utils.git",
+  "author": "sschen86 <sschen86@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@smartx/eslint-config-tentative": "^1.2.1",
+    "ijest": "^1.0.0"
+  }
+}
